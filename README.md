@@ -36,8 +36,3 @@ This script utilizes the PyAutoGUI library to automate certain tasks in YouTube 
 ### Disclaimer
 
 Please use this script responsibly and in compliance with YouTube's terms of service. Automating actions on YouTube may have implications on your account, and it is recommended to review and understand YouTube's policies before using this script.
-
-### License
-
-This script is released under the MIT License.
-
